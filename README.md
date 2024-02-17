@@ -11,3 +11,7 @@ I imported the required libraries and dependencies using Python and unsupervised
 Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61916?module_item_id=1077449
 
 'Title:<Crypto_Clustering.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/CryptoClustering/blob/main/Crypto_Clustering.ipynb
+
+'Title:<Crypto_Clustering.ipynb> 'Author:Brandon Knox 'Date:<2024> 'Code Version:<1.0> 'Code:elbow_plot = elbow_df.hvplot.line(x="K", y="Inertia", title="Elbow Curve", xticks=k)
+elbow_plot
+
