@@ -6,7 +6,7 @@ Clustering analysis or clustering is the task of grouping a set of objects in su
 
 I imported the required libraries and dependencies using Python and unsupervised learning. I created dataframes, line charts, and scatter plots to visualize the dataset to determine Clustering and Principal Component Analysis(PCA). In addition, I used K-Means a clustering algorithm used in unsupervised machine learning for the original scaled data and PCA data to determine the optimal k values. I added crypto names to indentify crytocurrencies. I used hvplot to create two line charts with their inertia values and optimal k values using the elbow method algorithm. Also, I used hvplot to create two scatter plots with their data. Along with the visualizations, I was able to compare the results to answer the questions provided in jupyter notebook.
 
-• Module 18 Challenge Citations:
+• Module 19 Challenge Citations:
 
 Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61916?module_item_id=1077449
 
